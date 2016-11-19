@@ -1,0 +1,24 @@
+body {
+  background-color: #bae6ff;
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.quote-author {
+  font-style: italic;
+  text-align: right;
+}
+
+.buttons {
+  padding: 20px 0;
+
+}
+
+#twitter {
+  float: left;
+}
+
+#new-quote {
+  float: right;
+}
